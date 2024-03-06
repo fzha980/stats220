@@ -3,11 +3,11 @@
 <!--- reason --->
 *I will use this to finish my project1 for stats220.*
 <!--- numbered lists --->
-**1. what I learn📚**
+**1.The course I choose is data science**
+<!--- numbered lists --->
+**2. I need to learn📚 many things**
 <!--- unordered lists --->
 * *Mathematics*
 * *Computer Science*
 * *Statistic*
-<!--- numbered lists --->
-**2.**
 ## Memes
